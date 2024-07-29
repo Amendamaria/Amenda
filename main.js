@@ -51,8 +51,7 @@ const spaceTexture = new THREE.TextureLoader().load('space.jpg')
 scene.background = spaceTexture
 
 
-
-//Avatar
+//Profile
 
 
 const amendaTexture = new THREE.TextureLoader().load('Amenda (3).png')
